@@ -1,0 +1,284 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "HTML BASICS"
+    },
+    {
+      "id": 2,
+      "name": "CSS Fundamentals"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript Essentials"
+    },
+    {
+      "id": 4,
+      "name": "Responsive Web Design"
+    },
+    {
+      "id": 5,
+      "name": "Frontend Framework"
+    },
+    {
+      "id": 6,
+      "name": "Backend Development"
+    },
+    {
+      "id": 7,
+      "name": "API Integration"
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "title": "Forms and Input Handling in HTML",
+      "userId": 7,
+      "body": "Explore the creation of interactive forms and handling user inputs using HTML. Understand the various input types and their usage in building dynamic web pages.",
+      "date": "March, 12, 2023",
+      "topicId": 1
+    },
+    {
+      "id": 3,
+      "title": "Semantic HTML: Enhancing Accessibility",
+      "userId": 13,
+      "body": "Delve into the significance of semantic HTML for accessibility and SEO. Learn how to structure content using semantic elements for better user experience.",
+      "date": "July 8, 2023",
+      "topicId": 1
+    },
+    {
+      "id": 4,
+      "title": "Styling Web Pages with CSS",
+      "userId": 2,
+      "body": "Discover the power of CSS in transforming the look and feel of web pages. Explore selectors, properties, and cascading styles...",
+      "date": "February 20, 2023",
+      "topicId": 2
+    },
+    {
+      "id": 5,
+      "title": "Responsive Design and Media Queries",
+      "userId": 6,
+      "body": "Learn how to make your web pages responsive across different devices using media queries in CSS. Adapt layouts and styles...",
+      "date": "May 10, 2023",
+      "topicId": 2
+    },
+    {
+      "id": 6,
+      "title": "CSS Flexbox and Grid Layouts",
+      "userId": 2,
+      "body": "Master the use of Flexbox and Grid in CSS for creating flexible and efficient layouts. Explore these powerful tools to design complex web structures.",
+      "date": "September 3, 2023",
+      "topicId": 2
+    },
+    {
+      "id": 8,
+      "title": "Functions and Event Handling in JavaScript",
+      "userId": 5,
+      "body": "Learn about functions and event handling in JavaScript to add interactivity and responsiveness to your web pages...",
+      "date": "June 15, 2023",
+      "topicId": 3
+    },
+    {
+      "id": 9,
+      "title": "Asynchronous JavaScript and Promises",
+      "userId": 16,
+      "body": "Dive into asynchronous programming using JavaScript. Understand callbacks, promises, and async/await...",
+      "date": "October 25, 2023",
+      "topicId": 3
+    },
+    {
+      "id": 10,
+      "title": "Mobile-First Design Strategy",
+      "userId": 5,
+      "body": "Learn the mobile-first approach to design responsive websites. Start with mobile layouts and then scale up for larger screens...",
+      "date": "August 14, 2023",
+      "topicId": 4
+    },
+    {
+      "id": 11,
+      "title": "Viewport Meta Tag and Fluid Layouts",
+      "userId": 1,
+      "body": "Understand the role of the viewport meta tag in creating fluid layouts for different devices. Make your web pages adapt seamlessly...",
+      "date": "November 9, 2023",
+      "topicId": 4
+    },
+    {
+      "id": 12,
+      "title": "Introduction to React.js",
+      "userId": 8,
+      "body": "Discover the fundamentals of React.js, a powerful library for building user interfaces. Learn about components, state, and props...",
+      "date": "September 30, 2023",
+      "topicId": 5
+    },
+    {
+      "id": 13,
+      "title": "Angular Essentials: Components and Services",
+      "userId": 12,
+      "body": "Explore Angular essentials focusing on components and services. Understand the building blocks of Angular applications and data management...",
+      "date": "November 5, 2023",
+      "topicId": 5
+    },
+    {
+      "id": 15,
+      "title": "Introduction to Node.js",
+      "userId": 1,
+      "body": "Get introduced to Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine. Explore its non-blocking I/O model and event-driven architecture...",
+      "date": "February 10, 2023",
+      "topicId": 6
+    },
+    {
+      "id": 16,
+      "title": "Building RESTful APIs with Express",
+      "userId": 12,
+      "body": "Learn how to create RESTful APIs using Express, a web application framework for Node.js. Build robust and scalable APIs...",
+      "date": "April 22, 2023",
+      "topicId": 6
+    },
+    {
+      "id": 17,
+      "title": "Introduction to SQL Databases",
+      "userId": 15,
+      "body": "Understand the basics of SQL databases. Learn about database design, querying data using SQL, and database management systems...",
+      "date": "May 5, 2023",
+      "topicId": 7
+    },
+    {
+      "id": 18,
+      "title": "NoSQL Database Types and Use Cases",
+      "userId": 3,
+      "body": "Explore various NoSQL database types and their use cases. Understand when to choose NoSQL databases over traditional SQL databases...",
+      "date": "June 18, 2023",
+      "topicId": 7
+    },
+    {
+      "title": "Getting Started with Vue.js",
+      "userId": 4,
+      "body": "Start building interactive web interfaces with Vue.js. Learn about directives, data binding, and Vue components to create dynamic applications...",
+      "date": "",
+      "topicId": 5,
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "cohort": 1
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "cohort": 2
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "email": "charlie@example.com",
+      "cohort": 3
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "email": "david@example.com",
+      "cohort": 4
+    },
+    {
+      "id": 5,
+      "name": "Emma",
+      "email": "emma@example.com",
+      "cohort": 1
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "email": "frank@example.com",
+      "cohort": 2
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "email": "grace@example.com",
+      "cohort": 3
+    },
+    {
+      "id": 8,
+      "name": "Hannah",
+      "email": "hannah@example.com",
+      "cohort": 4
+    },
+    {
+      "id": 9,
+      "name": "Isaac",
+      "email": "isaac@example.com",
+      "cohort": 1
+    },
+    {
+      "id": 10,
+      "name": "Julia",
+      "email": "julia@example.com",
+      "cohort": 2
+    },
+    {
+      "id": 11,
+      "name": "Kevin",
+      "email": "kevin@example.com",
+      "cohort": 3
+    },
+    {
+      "id": 12,
+      "name": "Lily",
+      "email": "lily@example.com",
+      "cohort": 4
+    },
+    {
+      "id": 13,
+      "name": "Mike",
+      "email": "mike@example.com",
+      "cohort": 1
+    },
+    {
+      "id": 14,
+      "name": "Nora",
+      "email": "nora@example.com",
+      "cohort": 2
+    },
+    {
+      "id": 15,
+      "name": "Olivia",
+      "email": "olivia@example.com",
+      "cohort": 3
+    },
+    {
+      "id": 16,
+      "name": "Peter",
+      "email": "peter@example.com",
+      "cohort": 4
+    },
+    {
+      "id": 17,
+      "name": "Quinn",
+      "email": "quinn@example.com",
+      "cohort": 1
+    },
+    {
+      "id": 18,
+      "name": "Rachel",
+      "email": "rachel@example.com",
+      "cohort": 2
+    },
+    {
+      "id": 19,
+      "name": "Sam",
+      "email": "sam@example.com",
+      "cohort": 3
+    },
+    {
+      "id": 20,
+      "name": "Tina",
+      "email": "tina@example.com",
+      "cohort": 4
+    }
+  ]
+}
